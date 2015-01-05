@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">CPClear</string>
+    <string name="service_open">开启服务</string>
+    <string name="service_close">关闭服务</string>
+    
+    <color name="red">#CD0000</color>
+    <color name="green">#008B00</color>
+    <color name="white">#FFFFFF</color>
+</resources>
